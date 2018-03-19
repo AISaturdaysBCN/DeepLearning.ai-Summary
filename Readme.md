@@ -1,5 +1,7 @@
 # DeepLearning.ai Courses Notes
 
+// ADAPTATION FOR AISATURDAYSBCN COURSE - CLASS MARCH 2018 //
+
 This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
 
 [DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
